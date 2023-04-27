@@ -2,7 +2,8 @@
 ## Overview
 
 Predicting the price of house in boston, given a set of features that describe the house using different machine learning models.
-Tried 4 models (Linear Regression, Decision Tree, Random Forest, XGBoost) the best one was ** XGBoost ** with the following results:
+
+Tried 4 ML models (Linear Regression, Decision Tree, Random Forest, XGBoost) the best one was **XGBoost** with the following results:
 
 - Training Accuracy: 99.99953622164942
 - Testing Accuracy: 91.05388132305845
